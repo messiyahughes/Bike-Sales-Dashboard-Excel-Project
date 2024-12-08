@@ -21,5 +21,3 @@ This Excel dashboard was created using data from [AlexTheAnalyst's GitHub reposi
 - Charts and Pivot Tables
 - Data Analysis and Visualization
 
-## License:
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
